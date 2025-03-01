@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 - 🚀 I’m currently working on **AI-powered applications**  
-- 🌱 Learning **DSA, AI, and Blockchain**  
+- 🌱 Learning **DSA, AI**  
 - 💡 Passionate about **Next.js, JavaScript, TailwindCSS, and Firebase**  
 - 💬 Ask me about **MERN Stack, Full-Stack Development, and AI Integration**  
 - 📫 Reach me at **mashoodgondal6146@gmail.com**  
